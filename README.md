@@ -1,4 +1,4 @@
-A java api for mega.nz
+A Android/Java api for mega.nz
 
 1. Log in with email/password
 
