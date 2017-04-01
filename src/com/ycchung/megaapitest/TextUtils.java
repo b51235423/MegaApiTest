@@ -1,4 +1,4 @@
-package com.ycchung.megaapitest.util;
+package com.ycchung.megaapitest;
 
 /**
  * Created by ben-chung on 2017/3/23.

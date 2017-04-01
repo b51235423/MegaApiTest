@@ -1,4 +1,4 @@
-package com.ycchung.megaapitest;
+package com.ycchung.megaapitest.util;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

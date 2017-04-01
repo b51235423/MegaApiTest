@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ycchung.megaapitest.util;
+package com.ycchung.megaapitest;
 
 import java.io.UnsupportedEncodingException;
 

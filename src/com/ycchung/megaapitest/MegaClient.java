@@ -21,7 +21,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 import static com.ycchung.megaapitest.MegaUtil.*;
-import static com.ycchung.megaapitest.util.TextUtils.isEmpty;
+import static com.ycchung.megaapitest.TextUtils.isEmpty;
 import static com.ycchung.megaapitest.util.Util.iterator;
 import static com.ycchung.megaapitest.util.Util.readString;
 import static com.ycchung.megaapitest.util.Util.safeClose;

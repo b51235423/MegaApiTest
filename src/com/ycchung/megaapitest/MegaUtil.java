@@ -83,7 +83,7 @@ public class MegaUtil {
     }
 
     static String base64UrlEncode(byte[] data) {
-        String result = com.ycchung.megaapitest.util.Base64.encodeToString(data, com.ycchung.megaapitest.util.Base64.DEFAULT);
+        String result = Base64.encodeToString(data, Base64.DEFAULT);
         result = result.replace('+', '-').replace('/', '_').replace("=", "");
         return result.trim();
     }
@@ -92,7 +92,7 @@ public class MegaUtil {
         if (data == null) data = "";
         while (data.length() % 4 != 0) data += "=";
         data = data.replace('-', '+').replace('_', '/').replace(",", "");
-        return com.ycchung.megaapitest.util.Base64.decode(data, com.ycchung.megaapitest.util.Base64.DEFAULT);
+        return Base64.decode(data, Base64.DEFAULT);
     }
 
     static int[] stringToA32(String data) {
