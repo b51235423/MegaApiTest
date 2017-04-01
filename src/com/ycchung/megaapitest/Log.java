@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by ben-chung on 2016/9/7.
+ * Created by ycchung on 2016/9/7.
  */
 
 // Please remove this class when in Android

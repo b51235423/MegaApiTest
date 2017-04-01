@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
- * Created by ben-chung on 2017/3/28.
+ * Created by ycchung on 2017/3/28.
  */
 public abstract class OutputStreamAdapter extends OutputStream {
     @Override

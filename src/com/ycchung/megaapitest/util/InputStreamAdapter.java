@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by ben-chung on 2016/8/30.
+ * Created by ycchung on 2016/8/30.
  */
 
 public abstract class InputStreamAdapter extends InputStream {

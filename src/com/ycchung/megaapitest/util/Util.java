@@ -10,7 +10,7 @@ import java.net.Socket;
 import java.util.Iterator;
 
 /**
- * Created by ben-chung on 2017/3/23.
+ * Created by ycchung on 2017/3/23.
  */
 public class Util {
     public static String APP_TAG_POSTFIX = "_mdbg";
