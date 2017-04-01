@@ -1,7 +1,6 @@
 package com.ycchung.megaapitest;
 
 import com.ycchung.megaapitest.util.InputStreamAdapter;
-import com.ycchung.megaapitest.util.Log;
 import com.ycchung.megaapitest.util.OutputStreamAdapter;
 import com.ycchung.megaapitest.util.Util;
 import org.json.JSONArray;

@@ -1,6 +1,5 @@
 package com.ycchung.megaapitest;
 
-import com.ycchung.megaapitest.util.Log;
 import com.ycchung.megaapitest.util.Util;
 import org.json.JSONObject;
 
