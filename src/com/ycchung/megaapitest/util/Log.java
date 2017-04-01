@@ -9,6 +9,9 @@ import java.util.Date;
 /**
  * Created by ben-chung on 2016/9/7.
  */
+
+// Please remove this class when in Android
+    
 public class Log {
     public static void d(String tag, String msg) {
         System.out.println(getTimeString() + " D " + tag + ": " + msg);
