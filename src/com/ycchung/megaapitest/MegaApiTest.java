@@ -13,7 +13,7 @@ public class MegaApiTest {
         new Thread(() -> {
             Log.d(TAG, "MegaApiTest CHUNKS_START length:" + MegaUtil.CHUNKS_START.length);
 
-            // MegaClient client = new MegaClient("email", "password");
+                // MegaClient client = new MegaClient("email", "password");
             // Log.d(TAG, "MegaApiTest isLoggedIn:" + client.isLoggedIn());
 
             // testGetRoot(client);
